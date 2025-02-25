@@ -1,0 +1,38 @@
+{
+  "seats": [
+    { "id": 1, "type": "available" },
+    { "id": 2, "type": "available" },
+    { "id": 3, "type": "available" },
+    { "id": 4, "type": "available" },
+    { "id": 5, "type": "available" },
+    { "id": 6, "type": "unavailable" },
+    { "id": 7, "type": "unavailable" },
+    { "id": 8, "type": "available" },
+    { "id": 9, "type": "available" },
+    { "id": 10, "type": "available" },
+    { "id": 11, "type": "available" },
+    { "id": 12, "type": "available" },
+    { "id": 13, "type": "unavailable" },
+    { "id": 14, "type": "unavailable" },
+    { "id": 15, "type": "available" },
+    { "id": 16, "type": "available" },
+    { "id": 17, "type": "available" },
+    { "id": 18, "type": "available" },
+    { "id": 19, "type": "available" },
+    { "id": 20, "type": "unavailable" },
+    { "id": 21, "type": "unavailable" },
+    { "id": 22, "type": "available" },
+    { "id": 23, "type": "available" },
+    { "id": 24, "type": "available" },
+    { "id": 25, "type": "available" },
+    { "id": 26, "type": "available" },
+    { "id": 27, "type": "unavailable" },
+    { "id": 28, "type": "unavailable" },
+    { "id": 29, "type": "available" },
+    { "id": 30, "type": "available" }
+  ],
+  "passengers": {
+    "1": "Ahmed",
+    "2": "Fatima"
+  }
+}
